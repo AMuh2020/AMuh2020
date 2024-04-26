@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working on a secret project 🤫
+- 🛠️ I'm currently maintaining a personal project of mine, amaltools.com (please visit)
+- 🌱 I’m currently learning, AI, machine learning and life
+- 💬 Ask me about exploring computer science
+- 📫 How to reach me: Linkedin
+- ⚡ Fun fact: I like cats
 
 <!--
 **AMuh2020/AMuh2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
