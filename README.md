@@ -1,9 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a secret project 🤫
-- 🛠️ I'm currently maintaining a personal project of mine, amaltools.com (please visit)
 - 🌱 I’m currently learning, AI, machine learning and life
 - 💬 Ask me about exploring computer science
-- 📫 How to reach me: Linkedin
+- 📫 How to reach me: Linkedin or email
 - ⚡ Fun fact: I like cats
 
 <!--
@@ -19,4 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 🛠️ I'm currently maintaining a personal project of mine, amaltools.com (please visit)
 -->
