@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a secret project 🤫
-- 🌱 I’m currently learning, AI, machine learning and life
+- 🌱 I’m currently learning AI, machine learning and life
 - 💬 Ask me about exploring computer science
 - 📫 How to reach me: Linkedin or email
 - ⚡ Fun fact: I like cats
