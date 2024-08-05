@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a secret project 🤫
+- 🔭 I’m currently working on my portfolio site
 - 🌱 I’m currently learning AI, machine learning and life
 - 💬 Ask me about exploring computer science
 - 📫 How to reach me: Linkedin or email
