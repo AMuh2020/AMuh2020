@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm AbdulMuhmeen
+## A passionate student of computer science
+
 - 🔭 I’m currently working on my portfolio site
-- 🌱 I’m currently learning AI, machine learning and life
+- 🌱 I’m currently learning about AI, machine learning and life
 - 💬 Ask me about exploring computer science
 - 📫 How to reach me: Linkedin or email
 - ⚡ Fun fact: I like cats
