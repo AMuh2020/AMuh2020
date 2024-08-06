@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm AbdulMuhmeen
-## A passionate student of computer science
+#### A passionate student of computer science
 
 - 🔭 I’m currently working on my portfolio site
 - 🌱 I’m currently learning about AI, machine learning and life
