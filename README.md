@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm AbdulMuhmeen
 #### A passionate student of computer science
 
-- 🔭 I’m currently working on my portfolio site
+- 🔭 I’m currently working on an idea
 - 🌱 I’m currently learning about AI, machine learning and life
 - 💬 Ask me about exploring computer science
 - 📫 How to reach me: Linkedin or email
