@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm AbdulMuhmeen
 #### A passionate student of computer science
 
-- 🔭 I’m currently working on an idea
+- 🔭 I'm working on AMALWorks (youtube & instagram links)
 - 🌱 I’m currently learning about AI, machine learning and life
-- 💬 Ask me about exploring computer science
+- 💬 DM me with any projects ideas, happy to work on a collaborative project.
 - 📫 How to reach me: Linkedin or email
 - ⚡ Fun fact: I like cats
 
