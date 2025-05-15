@@ -6,7 +6,7 @@
 - 💬 DM me with any projects ideas, happy to work on a collaborative project.
 - 📫 How to reach me: Linkedin or email
 - ⚡ Fun fact: I like cats
-
+![AMuh2020's Stats](https://github-readme-stats.vercel.app/api?username=AMuh2020&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 <!--
 **AMuh2020/AMuh2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
