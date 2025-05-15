@@ -12,9 +12,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=AMuh2020&theme=omni&hide_border=true)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AMuh2020&theme=omni&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
 
+<!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AMuh2020&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+-->
 ---
 [![](https://visitcount.itsvg.in/api?id=AMuh2020&icon=0&color=0)](https://visitcount.itsvg.in)
 
