@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm working on AMALWorks (site, youtube & instagram links)<br>🌱 I’m currently learning about AI, machine learning and life<br>💬 DM me with any projects ideas, happy to work on a collaborative project.<br>📫 How to reach me: LinkedIn or email<br>⚡ Fun fact: I like cats
+🔭 I'm working on AMALWorks (site, youtube & instagram links) and GbeWa a soon to be launched delivery app<br>🌱 I’m currently learning about AI, machine learning and life<br>💬 DM me with any projects ideas, happy to work on a collaborative project.<br>📫 How to reach me: LinkedIn or email<br>⚡ Fun fact: I like cats
 
 
 ## 🌐 Socials:
