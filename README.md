@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm working on AMALWorks (site, youtube & instagram links), GbeWa a soon to be launched delivery app and a stealth startup<br>🌱 I’m currently learning about AI, machine learning and life<br>💬 DM me with any projects ideas or collabs, happy to work on interesting projects.<br>📫 How to reach me: LinkedIn, instagram or email<br>⚡ Fun fact: I like cats<br><br>
+🔭 I'm working on a stealth startup and tons of other random project ideas<br>🌱 I’m currently learning about AI, machine learning and life<br>💬 DM me with any projects ideas or collabs, happy to work on interesting projects.<br>📫 How to reach me: LinkedIn, instagram or email<br>⚡ Fun fact: I like cats<br><br>
 
 
 ## 🌐 Socials:
