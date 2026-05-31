@@ -14,5 +14,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AMuh2020&icon=0&color=7)](https://visitcount.itsvg.in)
+![Profile views](https://counter.kuber.studio/AMuh2020/hacker/count.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
